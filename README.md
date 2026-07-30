@@ -11,7 +11,7 @@ AI/ML Engineer specializing in **Computer Vision**, **NLP**, and building **end-
 - 🛠️ **Approach**: Building scalable ML workflows from raw data collection to working model deployment
 - 📍 **Looking for**: AI/ML Engineer, Data Scientist, or Machine Learning roles (On-site, Hybrid, Remote across India)
 
----
+--- 
 
 ## 🛠️ Tech Stack & Tools
 
