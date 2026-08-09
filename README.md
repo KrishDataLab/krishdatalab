@@ -1,7 +1,7 @@
 # Hi there, I'm Mohana Venkata Krishna 👋
 
 AI/ML Engineer specializing in **Computer Vision**, **NLP**, and building **end-to-end Machine Learning pipelines**—moving beyond notebooks into deployed systems. Final-year B.Tech CSE (AI) student at **Amrita Vishwa Vidyapeetham**.
-    
+        
 ---
     
 ## 🚀 About Me
